@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  name: 'number-baseball-dev',
+  name: 'lecture-dev',
   mode: 'development',
   devtool: 'eval',
   resolve: {

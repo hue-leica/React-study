@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { hot } from 'react-hot-loader/root';
 
-import NumberBaseball from './NumberBaseball';
+import RSP from './RSP-hooks';
 
 
-const Hot = hot(NumberBaseball);
+const Hot = hot(RSP);
 
 ReactDOM.render(<Hot />, document.querySelector('#root'));
